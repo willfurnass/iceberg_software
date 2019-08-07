@@ -116,8 +116,8 @@ Which will pop up another terminal window, which supports graphical applications
    </p>
 
    <video style="margin-left: auto; margin-right:auto; display: block;" width=70% controls>
-       <source src="http://rcg.group.shef.ac.uk/tutorial_videos/mobaxterm-login-matlab-demo.webm" type="video/webm" />
-       <source src="http://rcg.group.shef.ac.uk/tutorial_videos/mobaxterm-login-matlab-demo.mp4" type="video/mp4" />
+       <source src="https://rcg.group.shef.ac.uk/tutorial_videos/mobaxterm-login-matlab-demo.webm" type="video/webm" />
+       <source src="https://rcg.group.shef.ac.uk/tutorial_videos/mobaxterm-login-matlab-demo.mp4" type="video/mp4" />
    </video>
 
 What Next?
