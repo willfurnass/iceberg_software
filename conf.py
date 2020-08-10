@@ -108,7 +108,7 @@ html_logo = 'themes/tuos/static/img/crest-l.gif'
 # Add any paths that contain custom static files (such as style sheets) here,
 # relative to this directory. They are copied after the builtin static files,
 # so a file named "default.css" will overwrite the builtin "default.css".
-# html_static_path = ['./_static']
+html_static_path = ['./_static']
 
 # Output file base name for HTML help builder.
 htmlhelp_basename = 'hpcdoc'
@@ -120,4 +120,10 @@ htmlhelp_basename = 'hpcdoc'
 man_pages = [
     (master_doc, 'iceberg', u'Sheffield HPC Documentation',
      [author], 1)
+]
+
+
+#Add the custom CSS
+html_css_files = [
+    'custom.css',
 ]
